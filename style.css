@@ -1,0 +1,70 @@
+h1{
+    text-align: center; 
+    color:black; 
+    background-color: darkred; 
+    border-radius:15px; 
+    
+} 
+img{
+    height:50px; 
+    width:50px;
+} 
+.pp{
+    text-align:centre;
+} 
+p{
+   background-color:darkred;
+   border-radius: 15px;
+   border:solid 1px darkred;
+   padding:5px;
+   font-size:25px; 
+    
+} 
+body{
+    background-color: rgb(183, 142, 142);
+} 
+.img{
+    width:70px; 
+    height:50px;
+} 
+.obnovlenie{ 
+    background-color:rgb(11, 127, 50); 
+    font-size:25px; 
+    border:1px solid rgb(11, 127, 50); 
+    padding:1px; 
+    margin:15px; 
+    text-align:center; 
+    border-radius:15px; 
+    text-decoration:none; 
+    color:black; 
+}  
+.border{ 
+     background-color:rgb(45, 8, 8); 
+    font-size:25px; 
+    border:1px solid rgb(45, 8, 8); 
+    padding:1px; 
+    margin:15px; 
+    text-align:center; 
+    border-radius:15px; 
+    text-decoration:none; 
+    color:black;  
+} 
+.solid{
+     background-color:rgb(45, 8, 8); 
+    font-size:25px; 
+    border:1px solid rgb(45, 8, 8); 
+    padding:1px; 
+    margin:15px;  
+    border-radius:15px; 
+    text-decoration:none; 
+    color:black; 
+    text-align: center; 
+ 
+} 
+.shapka{
+    margin:10px; 
+    text-align: center; 
+     
+
+
+}
